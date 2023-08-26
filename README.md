@@ -11,7 +11,7 @@ Convert web pages to PDF on your Android device with ease using the Webpage to P
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/yourusername/webpage-to-pdf-app.git`
+1. Clone this repository: `git clone https://github.com/dianaaugusta/pdf-page-converter/`
 2. Open the project in Android Studio.
 
 ## Dependencies
