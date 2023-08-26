@@ -6,7 +6,7 @@ Convert web pages to PDF on your Android device with ease using the Webpage to P
 
 - Convert web pages to PDF with a single click
 - Easy-to-use and intuitive user interface
-- View and share your converted PDFs directly from the app
+- View your converted PDFs directly from the app
 - Customizable settings for PDF output
 
 ## Getting Started
